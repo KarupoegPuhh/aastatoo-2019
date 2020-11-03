@@ -1,0 +1,24 @@
+--tumepruun
+HTML code: 	#371B03
+RGB code: 	55, 27, 3
+HSV: 		27.69° 94.55% 21.57%
+
+--pruun
+HTML code: 	#955923
+RGB code: 	R: 149 G: 89 B: 35
+HSV: 		28.42° 76.51% 58.43%
+
+--sinepikollane
+HTML code: 	#E6B439
+RGB code: 	R: 230, 180, 57
+HSV: 		42.66° 75.22% 90.2%
+
+--kollane
+HTML code: 	#FFE898
+RGB code: 	R: 255 G: 232 B: 152
+HSV: 		46.6° 40.39% 100%
+
+--helekollane
+HTML code: 	#FEF0BF
+RGB code: 	R: 254 G: 240 B: 191
+HSV: 		46.67° 24.8% 99.61%

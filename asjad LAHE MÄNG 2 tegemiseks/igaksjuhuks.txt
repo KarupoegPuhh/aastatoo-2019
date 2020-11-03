@@ -1,0 +1,33 @@
+if mouse_check_button_released(mb_left) && sees == true {tuba++}
+if tuba == 5 {room_goto(r_korb)}
+///ESIMENE
+if tuba == 0
+{
+    sc_tekst(900/2,20,3,"vali omale reisuks sobilik sõiduvahend");
+    //r
+    if point_in_rectangle(mouse_x, mouse_y, 1/3*900 -20, 300, 1/3*900 + 20, 300 + 20){
+        sc_tekst(1/3*900,300,varv+3,"rula?");
+        vaip = false;
+        sees = true;
+    }else{
+        sc_tekst(1/3*900,300,varv,"rula?");
+        vaip = true;
+    }
+    //v
+    if point_in_rectangle(mouse_x, mouse_y, 2/3*900 -20, 300, 2/3*900 + 20, 300 + 20){
+        sc_tekst(2/3*900,300,varv+3,"lendawaip");
+        vaip = true;
+        sees = true;
+    }else{
+        sc_tekst(2/3*900,300,varv,"lendawaip");
+        vaip = false;
+        if !point_in_rectangle(mouse_x, mouse_y, 1/3*900 -20, 300, 1/3*900 + 20, 300 + 20){
+            sees = false;    
+        }
+    }
+}
+///TEINE
+if tuba == 1
+{
+
+}
