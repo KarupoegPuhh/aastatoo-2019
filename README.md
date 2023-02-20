@@ -4,12 +4,6 @@ TARTU WALDORFGÜMNAASIUM
 
 Aastatöö
 
-***REMOVED***
-
-Juhendaja: Martin Vainikko
-
-Triin Nooska
-
 Tartu 2019
 
 # Sisukord
